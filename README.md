@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bijoy 👋
 
-<!--
-**bijoy-bisui/bijoy-bisui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 First Year B.Tech Student | Learning Programming & Cyber Security
 
-Here are some ideas to get you started:
+I love exploring new technologies, writing code, and understanding how systems work.  
+Currently learning:
+- C Language
+- Linux
+- Git & GitHub
+- Basics of Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Skills I'm Working On
+| Language | Status |
+|---------|--------|
+| C       | Learning |
+| Python  | Next Target |
+| Linux   | Practicing |
+
+---
+
+### 🌱 Goals for 2025
+- Become strong in C & Data Structures
+- Learn ethical hacking basics
+- Build personal projects
+- Contribute to open source
+
+---
+
+### 🤝 Connect With Me
+**GitHub:** https://github.com/bijoy-bisui

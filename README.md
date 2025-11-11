@@ -28,7 +28,7 @@ Currently learning:
 | Language | Status |
 |---------|--------|
 | C       | Learning |
-| Python  | Next Target |
+| Python  | Learning |
 | Linux   | Practicing |
 
 ---

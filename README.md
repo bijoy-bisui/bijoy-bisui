@@ -10,6 +10,19 @@ Currently learning:
 - Basics of Cyber Security
 
 ---
+---
+
+### 🛠️ Tools I Use
+| Tool | Purpose |
+|------|---------|
+| VS Code | Code Editor |
+| Git | Version Control |
+| Linux (Ubuntu/Kali) | System & Security Practice |
+| GCC | C Compiler |
+
+---
+
+
 
 ### 🔥 Skills I'm Working On
 | Language | Status |

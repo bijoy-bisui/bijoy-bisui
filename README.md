@@ -18,8 +18,6 @@ Currently learning:
 | VS Code | Code Editor |
 | Git | Version Control |
 | Linux (Ubuntu/Kali) | System & Security Practice |
-| GCC | C Compiler |
-
 ---
 
 

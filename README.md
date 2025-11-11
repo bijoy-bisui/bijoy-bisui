@@ -33,12 +33,6 @@ Currently learning:
 
 ---
 
-### 🌱 Goals for 2025
-- Become strong in C & Data Structures
-- Learn ethical hacking basics
-- Build personal projects
-- Contribute to open source
-
 ---
 
 ### 🤝 Connect With Me

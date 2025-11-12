@@ -53,12 +53,9 @@ Currently learning:
 </p>
 
 ---
+![VS Code](https://img.shields.io/badge/Code-VS%20Code-blue?logo=visualstudiocode)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bijoy-bisui&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>
 
 ---
 <p align="center">Thanks for visiting my profile. I'm always learning and improving.</p>

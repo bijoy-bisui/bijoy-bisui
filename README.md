@@ -37,14 +37,7 @@ Currently learning:
 **GitHub:** https://github.com/bijoy-bisui
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijoy-bisui&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoy-bisui&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ### 🔥 Streak Stats
 

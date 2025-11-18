@@ -43,5 +43,5 @@ Currently learning:
 
 
 ---
-<p align="center">Thanks for visiting my profile. I'm always learning and improving.</p>
+<p align="center">Thanks for visiting my profile.</p>
 

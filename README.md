@@ -37,11 +37,6 @@ Currently learning:
 ---
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bijoy-bisui&theme=tokyonight&hide_border=false" />
-</p>
-
-
 ---
 ![VS Code](https://img.shields.io/badge/Code-VS%20Code-blue?logo=visualstudiocode)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
